@@ -83,6 +83,7 @@ p {
 .first-container img:hover {
     transform: scale(1.1);
 }
+
 .card-1 button {
      background-color: rgb(14, 92, 59);
      color: white;
